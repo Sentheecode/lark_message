@@ -1,2 +1,2 @@
 # lark_message
-ThisLi_Auto_PaintShop
+It's just a reminder for Li_Auto_PaintShop
